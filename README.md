@@ -11,7 +11,6 @@ The normative clauses of this document define a concise and slightly constrained
 elements and attributes that are not necessarily required and may be ignored
 
 **Mandatory** 
-
 elements and attributes that are generally required in audience impression reports  
 
 **Optional and Not Recommended**  
