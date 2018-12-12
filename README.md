@@ -17,7 +17,7 @@ this is only a phrase
 will go into the bibliography  
 
 ## Unified Core Reporting Schema
-The following tables define a concise and slightly constrained subset of the VAST 4.0 and VMAP 1.0.1 elements and attributes.  
+The following two tables define a concise and slightly constrained subset of the VAST 4.0 and VMAP 1.0.1 elements and attributes.  
 
 **Optional:** 
 items not highlighted—applicability depends on use case  
@@ -32,7 +32,6 @@ items highlighted in red
 Elements and attributes that are generally considered unnecessary and wasteful of limited IFEC resources  
 
 
-**Table 1: Core VAST Elements**  
 <figure>
 	<img src="Tables/tableOneFigure.png" />
 	<figcaption>Table 1: Core VAST Elements</figcaption>
