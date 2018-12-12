@@ -12,5 +12,7 @@ elements and attributes that are not necessarily required and may be ignored
 
 **Mandatory** 
 elements and attributes that are generally required in audience impression reports  
+**Mandatory**
+elements and attributes that are generally required in audience impression reports
 **Optional and Not Recommended**  
 elements and attributes that are generally considered unnecessary and wasteful of limited resources  
