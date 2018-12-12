@@ -9,6 +9,7 @@ The normative clauses of this document define a concise and slightly constrained
 ## Terms and Definitions  
 **Optional**  
 elements and attributes that are not necessarily required and may be ignored
+
 **Mandatory**
 
 elements and attributes that are generally required in audience impression reports  
