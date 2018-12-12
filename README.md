@@ -23,3 +23,13 @@ The following tables define a concise and slightly constrained subset of the VAS
 items not highlighted—applicability depends on use case  
 Elements and attributes that are not necessarily required and may be ignored
 
+**Mandatory:** 
+items highlighted in green  
+Elements and attributes that are generally required in audience impression reports  
+
+**Optional and Not Recommended:** 
+items highlighted in red  
+Elements and attributes that are generally considered unnecessary and wasteful of limited IFEC resources  
+
+
+**Table 1: Core VAST Elements**  
