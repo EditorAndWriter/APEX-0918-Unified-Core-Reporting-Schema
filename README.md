@@ -33,3 +33,7 @@ Elements and attributes that are generally considered unnecessary and wasteful o
 
 
 **Table 1: Core VAST Elements**  
+<figure>
+	<img src="Tables/tableOneFigure.png" />
+	<figcaption>Table 1: Core VAST Elements</figcaption>
+</figure>
