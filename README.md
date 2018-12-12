@@ -37,7 +37,7 @@ Elements and attributes that are generally considered unnecessary and wasteful o
 	<figcaption>Table 1: Core VAST Elements</figcaption>
 </figure>
 <figure>
-	<img src="Tables/Table2VMAPextension.png" />
+	<img src="Tables/Table2VMAP-extension.png" />
 	<figcaption>Table 2: VMAP Extensions</figcaption>
 </figure>
 
