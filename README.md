@@ -84,6 +84,14 @@ In the spirit of trustworthy and open standardization, all new IFEC workflows mu
 
 When architecting Wi-Fi bandwidth management solutions, give recognized practices first consideration. QoS reports based on open industry standards can remain meaningful outside the realm of IFEC technology. These well known practices include MPEG SAND <https://dash-industry-forum.github.io/docs/CR-SAND-DASH-IF-IOP_Community-Review.pdf> and related CTA and SVA standards <http://www.streamingvideoalliance.org/download/4482/>.  
 
+## Appendix D: Conformance Resources  
+
+Initial validation of any sample VAST 4.0 XML is relatively straightforward. The IAB Lab maintains a VAST 4.0 XSD string/file at this GitHub repository <https://github.com/InteractiveAdvertisingBureau/vast>. A convenient interactive online validation tool can be accessed at this web site <https://vastvalidator.iabtechlab.com/dash> (registration required).  
+
+The utility of this document and the express intentions of its contributors spring from our constraints and prioritizations of the set of VAST and VMPA elements and attributes we have normatively referenced. Common sense industrial engineering principles dictate that practical conformance exercises ought to focus on the specific elements and attributes categorized as mandatory by this unified reporting schema. 
+
+Input from accross the industry will continue to inform ongoing plans to contribute to the IAB VAST Tag Validator GitHub project.  
+
 ## Bibliography (Informative)  
 **CMAF:**
 common media application format—MPEG Standard 23000-19 <https://mpeg.chiariglione.org/standards/mpeg-a/common-media-application-format>  
