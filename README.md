@@ -1,6 +1,6 @@
 # APEX-0918-Unified-Core-Reporting-Schema
 ### Disclaimer:  
-The introductory clause is strictly informative. 
+The introductory clause, the appendix and bibliography are strictly informative. 
 
 ## Introduction 
 This advertising impression reporting schema specification is intended to facilitate the acceptance, recognition and accreditation of the unique media currency provided by airline publishers of streaming entertainment. It may also have applicability to other advertising workflows within the transportation sector.
