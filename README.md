@@ -53,6 +53,37 @@ Elements and attributes that are generally considered unnecessary and wasteful o
 	<figcaption>Table 2: VMAP Extensions</figcaption>
 </figure>  
 
+
+## Appendix A: Market Considerations  
+
+Mainstream marketing is changing rapidly. Projections for the flow of North American ad spending tell us that the mass audience is moving away from broadcast and cable television. Internet display advertising, electronic bulk mail, search engine advertising and over the top streaming services have eroded the broadcaster’s traditional ad-supported ecosystem. The global advertising industry is responding to these challenging audience distractions with innovative marketing tools. By way of MATTER and other outreach efforts, APEX is proactively embracing their cutting-edge resources.  
+
+Some of these trusted platforms enable automation through voluntary coordination. The continuing efforts of two non-profit bodies, the Entertainment Identifier Registry (EIDR) and Ad-ID.org, ensure that all professional content has or will soon have a unique, constantly available, identification number. The boards of directors of both the Association of National Advertisers (ANA) and the American Association of Advertising Agencies (4A's) have unanimously endorsed Advertising Digital Identification, LLC (Ad-ID) as the industry standard for web-based universal coding of all advertising assets.  
+
+*Mobile out-of-home and digital place-based*
+marketing strategies are evolving rapidly. The added value of IFEC springs from the fact that airlines maintain a relatively distraction-free environment. At a time when traditional audience impression resources are becoming scarce, our captive audience can mint a unique media currency.  
+
+Global ad delivery ordering and fulfillment workflows have become increasingly automated. This expanding ecosystem already incorporates adaptive self-learning networks that improve ROI by delivering contextualized, personalized and targeted messages. We are not witnessing the proverbial conflict of man versus machine; we are participants in the maturation of an essential cultural phenomenon. Human assisted rules-based marketplace management resources have recently achieved the level of sophistication needed to serve as workmanlike tools. Publishers can deploy systems that capture geography, timeframe, weather and content adjacency. These and other analytic resources can give airline management executives aggregate reports that reflect the context of each audience impression.  
+
+To minimize advertising clutter by limiting the number of commercial breaks and controlling the number of ads within each break, IFEC publishers need to command the highest possible cost per thousand impression (CPM) rates. The proven way to accomplish this is to present advertisers with a unified marketplace offering our distinct media currency. In a world where ad fraud is a major concern, it’s not enough to offer targeted, trackable and verifiable audience impressions. It’s time for our industry to proactively adapt for its own use the standardized reporting platforms that the independent oversight authorities prefer.  
+
+## Appendix B: Essential Advertising Workflow Functions  
+
+Modern ad-supported publishing operations deserve the support of well-known DSP marketplace aggregators because they can automatically capture orders for advertising inventory. These orders will be continuously filled by ad-supported onboard entertainment systems. To help monetize every commercial message that is delivered on board, the APEX ADWG is articulating a unified core for reporting each audience impression (see Appendix A). This unification, which is formed around the Interactive Advertising Bureau’s digital video ad serving template, implies general use of the bureau’s open measurement SDK (OMID). The third-party independent servers aggregating numerous IFEC-certified OMID impressions will doubtlessly maintain their accreditation via annual audits. This ongoing oversight will be moderated by well-known authorities such as Kantar Media, comScore, and/or the Media Rating Council.  
+
+This trusted system must report the entire ad block as well as the adjacent show(s) for each targeted impression. It must deliver all that detail while also honoring passenger privacy, advertiser confidentiality, and airline control. To achieve this, IFEC platforms should offer the airline a significant degree of insight into the ad sales performance and targeting efficiency. Authorized access structures such as these can be maintained through the aggregation of (properly pseudonymized) content type consumption trends and core viewership patterns. At a minimum, this privileged impression data can be grouped by flight origin and destination, date and time, ticket price class, timing of advance ticket purchase, etc.  
+
+## Appendix C: Implementation Parameters  
+
+Ad placement mechanisms should be treated as independent and dynamic blocks even when their functional implementations seem to be intertwined with other systems. Ad-supported entertainment platforms may employ broadband air-to-ground connectivity systems and may (partially) rely on cloud-based streaming infrastructures. Or, new IFEC solutions can more closely resemble legacy designs. Fully offline solutions can incorporate streaming servers that instantiate proxy servers that stitch commercial messages into each passenger’s DASH manifest. Alternately, an onboard IFEC ad placement mechanism can consist of nothing more than a conventional HTML server. An airline can populate its passenger’s browser pages with (rich video) advertisement banners. In every case, to elevate the PAX experience as well as maximize airline revenue, the effectiveness of the core ad placement block needs to be scrutinized, optimized and thoughtfully monetized. This is an ongoing obligation that calls for a merger of the latest machine learning technologies with thoughtful marketing skills.  
+
+*Trust and verify*
+is the mantra of modern IT security design. Secrecy is not an acceptable substitute for trust. In the realm of ad-supported entertainment, trust cannot exist without the protection of rigorous verification protocols. Note that any workflow involving audience-impression records must preserve an audit trail.  
+
+In the spirit of trustworthy and open standardization, all new IFEC workflows must use Ad-ID and EIDR. These non-profit registration authorities have active industry support. The identifiers they issue deserve to take precedence even when the use of established house numbers and media asset management platforms seems more familiar and efficient.  
+
+When architecting Wi-Fi bandwidth management solutions, give recognized practices first consideration. QoS reports based on open industry standards can remain meaningful outside the realm of IFEC technology. These well known practices include MPEG SAND <https://dash-industry-forum.github.io/docs/CR-SAND-DASH-IF-IOP_Community-Review.pdf> and related CTA and SVA standards <http://www.streamingvideoalliance.org/download/4482/>.  
+
 ## Bibliography (Informative)  
 **CMAF:**
 common media application format—MPEG Standard 23000-19 <https://mpeg.chiariglione.org/standards/mpeg-a/common-media-application-format>  
