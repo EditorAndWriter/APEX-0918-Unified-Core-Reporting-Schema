@@ -21,6 +21,9 @@ system for unique universal registration of movie and television assets <https:/
 **OMID:**
 open measurement interface definition supported by a software development kit published by the IAB Technology Laboratory <https://iabtechlab.com/standards/open-measurement-sdk/>  
 
+**PAX**
+airline passengers  
+
 **VAST:**
 video ad serving XML template standardized by the Interactive Advertising Bureau <https://iabtechlab.com/standards/vast/>  
 
